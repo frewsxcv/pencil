@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Pencil","The pencil type.  It acts as the central application object.  Once it is created it will act as a central registry for the view functions, the URL rules and much more."]]});

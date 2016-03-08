@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Map","The map stores all the URL rules."],["MapAdapter","Does the URL matching and building based on runtime information."],["Matcher","The matcher holds the url regex object."],["Rule","A Rule represents one URL pattern."]]});
